@@ -1,0 +1,17 @@
+{
+  "name": "gulp-pug-template",
+  "version": "1.0.0",
+  "description": "gulp-pug-template by skgw",
+  "main": "index.js",
+  "repository": "https://github.com/skgwt6v/gulp-pug-template",
+  "author": "skgwt6v",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.2.1"
+  }
+}
